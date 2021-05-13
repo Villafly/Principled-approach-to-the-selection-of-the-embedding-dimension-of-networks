@@ -9,7 +9,7 @@ Principled-approach-to-the-selection-of-the-embedding-dimension-of-networks
 
 #### Example
 To run *defining_identifying_optimal_dimension* on the American college football network, execute the following command from the project home directory:<br/>
-	``python2.7 define_identify.py --input graph/football``
+	``python2.7 define_identify.py --input football``
 
 #### Options
 You can check out the other options available to use with *defining_identifying_optimal_dimension* using:<br/>
