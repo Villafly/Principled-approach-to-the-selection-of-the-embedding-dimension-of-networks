@@ -1,7 +1,9 @@
 # Principled-approach-to-the-selection-of-the-embedding-dimension-of-networks
 
-# defining_identifying_optimal_dimension
+
 This repository provides a reference implementation of the following paper:
+Principled-approach-to-the-selection-of-the-embedding-dimension-of-networks
+
 
 ### Basic Usage
 
